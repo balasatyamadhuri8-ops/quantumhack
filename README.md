@@ -8,7 +8,7 @@
 - **Video Presentation Link:** [Insert your public Google Drive / YouTube / Loom video link]
 - **Live Demo:** https://reliefq-quantum.streamlit.app/
 - **GitHub Repository:** https://github.com/balasatyamadhuri8-ops/quantumhack
-- **Live Demo Timestamp in Video:** [MM:SS — enter the time when the website demonstration begins]
+- **Live Demo Timestamp in Video:** [00:00 — enter the time when the website demonstration begins]
 
 ## Team Members (Max 4 members)
 
